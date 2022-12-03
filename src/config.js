@@ -10,7 +10,7 @@ export const CONFIG = {
     "title": "NFT5",
 
     // 4. Set your Covalent API Key
-    "api_key": "ckey_8e6054f8ee1847c59ddbffd5ed6",
+    "api_key": "ckey_3bdabb7325ee47cc9bcc1e5f3d7",
 
     // 5. (Optional) Display the floor price chart
     "timeseries_chart": true,
