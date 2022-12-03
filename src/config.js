@@ -7,7 +7,7 @@ export const CONFIG = {
     "block_chain_id": "137",
 
     // 3. Set the default title of your dashboard. If found, this template uses the NFT Collection name for the title.
-    "title": "NFT5",
+    "title": "NFT5 V4",
 
     // 4. Set your Covalent API Key
     "api_key": "ckey_3bdabb7325ee47cc9bcc1e5f3d7",
