@@ -1,13 +1,13 @@
 export const CONFIG = {
   TEMPLATE: {
     // 1. Set your NFT collection contract address
-    "collection_address": "0xc43FE307B85DA59da23B9d957e9F925B8030Ed40",
+    "collection_address": "0xF11e4F7c908bdC02b3d45CE8dCF9451196372833",
 
     // 2. Set your blockchain chain ID where your NFT collection contract address is deployed (see below for value options)
     "block_chain_id": "137",
 
     // 3. Set the default title of your dashboard. If found, this template uses the NFT Collection name for the title.
-    "title": "NFT5 V4",
+    "title": "NFT5 - ETHINDIA",
 
     // 4. Set your Covalent API Key
     "api_key": "ckey_3bdabb7325ee47cc9bcc1e5f3d7",
